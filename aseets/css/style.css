@@ -13,3 +13,10 @@ body {
     background-color: aliceblue;
     color: blueviolet;
 }
+
+header {
+    background-color:rgb(176, 176, 232);
+    color: azure;
+    padding: 15px 0;
+}
+
