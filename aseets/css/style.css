@@ -60,3 +60,26 @@ a:hover {
     margin: 20px auto;
     padding: 20px;
 }
+
+.vinyasa-yoga, 
+.hatha-yoga,
+.kundalini-yoga,
+.about,
+.instructors,
+.signup {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.about h2,
+.instructors h2,
+.signup h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.signup form label {
+    display: block;
+    margin-bottom: 10px;
+}
