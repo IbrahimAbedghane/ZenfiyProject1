@@ -8,3 +8,14 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Roboto' sans-serif;
+    background-color: aqua;
+    color: blueviolet;
+}
+
+header {
+    background-color: black;
+    color: aqua;
+    padding: 20px 0;
+}
