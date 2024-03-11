@@ -132,3 +132,27 @@ section li {
 .about p {
     font-size: 1.5em;
 }
+
+/*media qureies for screens equal or small than 480px */
+
+.description {
+    padding: 10px;
+}
+
+.hero h1 {
+    font-size: 1,5em;
+}
+
+.hero p {
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+.about h2 {
+    font-size: 1.7em;
+}
+
+.instructors {
+    font-size: 1.7em;
+}
+
