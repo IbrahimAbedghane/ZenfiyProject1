@@ -92,3 +92,10 @@ footer {
     text-align: center;
     padding: 15px 0;
 }
+
+/*aligned social media horizontally*/
+#social-media li {
+display: inline;
+margin-right: 15px;
+}
+
