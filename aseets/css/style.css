@@ -79,7 +79,16 @@ a:hover {
     margin-top: 15px;
 }
 
-.signup form label {
+
+/*styling to signup form*/
+.signup-form label {
     display: block;
     margin-bottom: 10px;
+}
+
+footer {
+    background-color:rgb(176, 176, 232);
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 0;
 }
