@@ -80,11 +80,14 @@ a:hover {
 .about h2,
 .instructors h2,
 .signup h2 {
-    font-size: 2em;
+    font-size: 3em;
     margin-bottom: 20px;
     margin-top: 15px;
 }
 
+p {
+    font-size: 130%;
+}
 
 /*styling to signup form*/
 .signup-form label {
@@ -121,6 +124,9 @@ section li {
 }
 
 /*media queries for screens equal or smaller than 768px*/
+@media screen and (max-width: 768px) {
+    
+
 .description {
     padding: 15px;
 }
@@ -132,8 +138,11 @@ section li {
 .about p {
     font-size: 1.5em;
 }
+}
 
 /*media qureies for screens equal or small than 480px */
+@media only screen and (max-width: 480px) {
+
 
 .description {
     padding: 10px;
@@ -156,3 +165,8 @@ section li {
     font-size: 1.7em;
 }
 
+/*to ensure image is at 100px on smaller screens */
+.instructors img {
+    width: 100px;
+}
+}
