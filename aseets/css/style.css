@@ -99,3 +99,8 @@ display: inline;
 margin-right: 15px;
 }
 
+#social-media a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 35px;
+}
