@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: 'Roboto' sans-serif;
     background-color: aliceblue;
@@ -91,6 +92,7 @@ footer {
     color: aliceblue;
     text-align: center;
     padding: 15px 0;
+    font-size: 35px;
 }
 
 /*aligned social media horizontally*/
@@ -103,4 +105,12 @@ margin-right: 15px;
     color: aliceblue;
     text-decoration: none;
     font-size: 35px;
+}
+
+#social-media a {
+    padding: 15px;
+}
+
+section li {
+    list-style: none;
 }
