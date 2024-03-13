@@ -182,3 +182,14 @@ section li {
 .signup {
     flex-grow: 2;
 }
+
+.message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-weight: bolder;
+    font-size: 125%;
+}
