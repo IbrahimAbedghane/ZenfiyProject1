@@ -34,7 +34,7 @@ nav ul {
 nav ul li {
     display: inline;
     padding: 25px;
-    font-size: 180%;
+    font-size: 150%;
 }
 
 nav ul li a {
@@ -101,7 +101,7 @@ footer {
     color: white;
     text-align: center;
     padding: 15px 0;
-    font-size: 35px;
+    font-size: 18px;
     
 }
 
