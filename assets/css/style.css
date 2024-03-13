@@ -17,8 +17,8 @@ body {
 }
 
 header {
-    background-color:rgb(176, 176, 232);
-    color: azure;
+    background-color:rgb(79, 79, 240);
+    color: white;
     padding: 15px 0;
     position: fixed;
     top: 0;
@@ -97,8 +97,8 @@ p {
 }
 
 footer {
-    background-color:rgb(176, 176, 232);
-    color: aliceblue;
+    background-color:rgb(79, 79, 240);
+    color: white;
     text-align: center;
     padding: 15px 0;
     font-size: 35px;
