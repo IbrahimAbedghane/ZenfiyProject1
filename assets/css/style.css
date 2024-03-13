@@ -55,6 +55,14 @@ a:hover {
     padding: 310px 0;
 }
 
+.hero-content {
+    background-color: black;
+    opacity: 70%;
+    color: white;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
 .hero h1 {
     font-size: 3em;
     margin-bottom: 25px;
