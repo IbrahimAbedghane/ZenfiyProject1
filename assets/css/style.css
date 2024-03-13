@@ -91,6 +91,22 @@ a:hover {
     list-style-type: disc;
 }
 
+.vinyasa-yoga {
+    background-color: rgb(103, 101, 131);
+    color: white;
+}
+
+.hatha-yoga {
+    background-color: blueviolet;
+    color: white;
+}
+
+.kundalini-yoga {
+    background-color: rgb(21, 21, 73);
+    color: white;
+}
+
+
 .about h2,
 .instructors h2,
 .signup h2 {
@@ -153,6 +169,8 @@ section li {
 .about p {
     font-size: 1.5rem;
 }
+
+
 }
 
 /*media qureies for screens equal or small than 480px */
@@ -164,7 +182,7 @@ section li {
 }
 
 .hero h1 {
-    font-size: 1,5em;
+    font-size: 1.5em;
 }
 
 .hero p {
