@@ -91,6 +91,7 @@ a:hover {
     list-style-type: disc;
 }
 
+
 .vinyasa-yoga {
     background-color: rgb(103, 101, 131);
     color: white;
@@ -152,6 +153,10 @@ margin-right: 15px;
 
 section li {
     list-style: none;
+}
+
+.signup {
+    background-image: url(/assets/yoga\body.jpg);
 }
 
 /*media queries for screens equal or smaller than 768px*/
