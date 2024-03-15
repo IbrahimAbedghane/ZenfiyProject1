@@ -101,3 +101,12 @@ I used Wave Webaim to test my site for accessibility and the results are shown b
 
 As part of the testing process I tested to ensure that all links work as intended. This involved ensuring I can navigate through the pages of the site with no blockers, that the external links to the social media all work and I tested them individually through each of the three pages. 
 
+## Technologies Used
+In terms of technologies used, my site was coded using HTML for the main content of the code and I added CSS styling to each of the pages alongside media queries for different sized screens.
+
+I also used dev tools in Google Chrome to assist me with visualising changes I was making and developing my site with a mobile first mental model. 
+
+I also used Gitpod to code my site using regular Git Commits to push changes onto Github and have an adequate version control mechanism. x
+
+
+
