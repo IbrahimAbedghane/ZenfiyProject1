@@ -17,4 +17,8 @@ I opted for calming background colors such as white, blue and darker purples to 
 I opted for using the font 'Roboto' for its modern appearance and clean design as well as its professional look for the site.
 ### Imagery
 I decided to provide a simple image experience on the website with a clear and large main image on the home page to highlight the websites function plus three clear pictures of our instructors. The aim was to not overwhelm users with pictures and images.
- 
+
+## Features
+
+### Navigation
+![Navigation](/assets/documentation/navigation.png)
