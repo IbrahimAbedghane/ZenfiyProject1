@@ -23,5 +23,6 @@ I decided to provide a simple image experience on the website with a clear and l
 ### Navigation
 - This navigation features on all three pages of the website for easy navigation between the three sections (home, about us, signup).
 - The navigation is fixed to the top of the page for a better user experience and allows users to move through the pages without the use of forward and back button.
+
 ![Navigation](/assets/documentation/navigation.png)
  
