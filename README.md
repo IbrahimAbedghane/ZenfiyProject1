@@ -141,3 +141,7 @@ The image for the second instructor 'Maria Perrie' was taken from - https://appa
 
 The image for the third instructor 'Simona Morgan' was taken from - https://www.stylist.co.uk/fitness-health/workouts/ultimate-yoga-pose/675961
 
+The main hero images on the home page was taken from - https://www.kelseykerridge.co.uk/news/a-guide-to-mindfulness/
+
+The social media icons in the footer were taken from - https://fontawesome.com/
+
