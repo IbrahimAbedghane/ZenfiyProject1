@@ -29,5 +29,12 @@ I decided to provide a simple image experience on the website with a clear and l
 ### Landing Page
 - The landing page is designed to be intuitive and concise and simple with a clear background image welcoming user to the site.
 - There is also a clear and eye catching caption with the site name.
+
 ![Landing](/assets/documentation/landing.png)
+
+### Main section 
+- The main section on the home page is split into three areas covering three different yoga styles practised at Zenfiy. 
+- It offers a short title of the yoga style followed by benefits and how to perform the yoga method.
+
+![Vinyasa Yoga](/assets/documentation/yoga-section.png)
  
