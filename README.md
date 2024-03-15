@@ -88,3 +88,6 @@ I also put all three pages of my site through the lighthouse mechanism to test f
 #### Lighthouse testing - About Us Page
 [Lighthouse About Us page](/assets/documentation/lighthouse-about.png)
 
+#### Lighthouse testing - Sign Up Page
+[Lighthouse Sign Up](/assets/documentation/lighthouse-signup.png)
+
