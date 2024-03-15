@@ -37,7 +37,9 @@ I decided to provide a simple image experience on the website with a clear and l
 - It offers a short title of the yoga style followed by benefits and how to perform the yoga method.
 
 ![Vinyasa Yoga](/assets/documentation/yoga-section.png)
+
 ![Hatha Yoga](/assets/documentation/main-section.png)
+
 ![Kundalini Yoga](/assets/documentation/main-two.png)
 
 ### About Us
@@ -45,8 +47,11 @@ I decided to provide a simple image experience on the website with a clear and l
 - The layout is simple and eye catching with an introduction to each of our yoga specialists, their speciality and years of experience.
 
 ![About US](/assets/documentation/aboutus.png)
+
 ![Instructor](/assets/documentation/aboutus-one.png)
+
 ![Instructor](/assets/documentation/aboutus-two.png)
+
 ![Instructor](/assets/documentation/aboutus-three.png)
  
 ### Sign Up
@@ -54,4 +59,10 @@ I decided to provide a simple image experience on the website with a clear and l
 - Once a user has inputed all their correct information, they will be taken to a thank you page explaining that a member of staff will be in contact soon.
 
 ![Sign Up](/assets/documentation/signup-page.png)
+
 ![Thank You](/assets/documentation/thank-you.png)
+
+### Footer 
+- The footer is simple and intuitive for the user and has three clear links to our social media pages that open in a separate page.
+
+![Footer](/assets/documentation/footer.png)
