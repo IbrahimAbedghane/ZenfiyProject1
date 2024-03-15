@@ -49,3 +49,9 @@ I decided to provide a simple image experience on the website with a clear and l
 ![Instructor](/assets/documentation/aboutus-two.png)
 ![Instructor](/assets/documentation/aboutus-three.png)
  
+### Sign Up
+- The sign up page is the third and final page to the Zenify site. It is designed for simplicity allowing users to input their name, email address and mobile number and will not allow users to submit until all three fields complete. 
+- Once a user has inputed all their correct information, they will be taken to a thank you page explaining that a member of staff will be in contact soon.
+
+![Sign Up](/assets/documentation/signup-page.png)
+![Thank You](/assets/documentation/thank-you.png)
