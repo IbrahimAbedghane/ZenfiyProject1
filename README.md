@@ -106,7 +106,14 @@ In terms of technologies used, my site was coded using HTML for the main content
 
 I also used dev tools in Google Chrome to assist me with visualising changes I was making and developing my site with a mobile first mental model. 
 
-I also used Gitpod to code my site using regular Git Commits to push changes onto Github and have an adequate version control mechanism. x
+I also used Gitpod to code my site using regular Git Commits to push changes onto Github and have an adequate version control mechanism. 
 
+## Deployment 
 
+My site was deployed to Github pages using the following steps:
+1. In my Github repository select 'settings' from near the top right.
+2. From the main source area I selected 'Master Branch' from the drop down menu.
+3. Once 'Master Branch' has been selected, given some time the page will successfuly deploy and be accessible through the main repository.
+
+The link to the page can be found here - (https://ibrahimabedghane.github.io/ZenfiyProject1/)
 
