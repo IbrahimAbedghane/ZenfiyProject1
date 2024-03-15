@@ -115,5 +115,21 @@ My site was deployed to Github pages using the following steps:
 2. From the main source area I selected 'Master Branch' from the drop down menu.
 3. Once 'Master Branch' has been selected, given some time the page will successfuly deploy and be accessible through the main repository.
 
-The link to the page can be found here - (https://ibrahimabedghane.github.io/ZenfiyProject1/)
+The link to the page can be found here - https://ibrahimabedghane.github.io/ZenfiyProject1/
+
+## Credits
+
+The text for the section on Vinyasa yoga on the home page was taken from - https://www.verywellfit.com/introduction-to-vinyasa-flow-yoga-4143120
+
+The text for the How to perform Vinyasa yoga on the home page was taken from - https://classpass.com/movements/vinyasa-flow
+
+The text from the section on Hatha yoga on the home page was taken from - https://www.ekhartyoga.com/articles/philosophy/what-is-hatha-yoga
+
+The text for How to perform Hatha yoga on the home page was taken from - https://www.livestrong.com/article/13762183-hatha-yoga-poses/
+
+The text for the section on Kundalini yoga on the home page was taken from - https://qiyoga.net/yoga-types/kundalini-yoga/
+
+The text for How to perform Kundalini yoga on the home page was taken from - https://www.netmeds.com/health-library/post/kundalini-yoga-know-how-to-awaken-the-chakras-of-the-body
+
+
 
