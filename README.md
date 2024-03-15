@@ -91,3 +91,9 @@ I also put all three pages of my site through the lighthouse mechanism to test f
 #### Lighthouse testing - Sign Up Page
 [Lighthouse Sign Up](/assets/documentation/lighthouse-signup.png)
 
+### Wave Webaim
+
+I used Wave Webaim to test my site for accessibility and the results are shown below with no errors or warning.
+
+[Wave Webaim](/assets/documentation/Wave%20Webaim.png)
+
