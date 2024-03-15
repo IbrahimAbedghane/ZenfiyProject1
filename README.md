@@ -38,4 +38,5 @@ I decided to provide a simple image experience on the website with a clear and l
 
 ![Vinyasa Yoga](/assets/documentation/yoga-section.png)
 ![Hatha Yoga](/assets/documentation/main-section.png)
+![Kundalini Yoga](/assets/documentation/main-two.png)
  
