@@ -97,3 +97,7 @@ I used Wave Webaim to test my site for accessibility and the results are shown b
 
 ![Wave Webaim](/assets/documentation/Wave%20Webaim.png)
 
+### Manual Testing
+
+As part of the testing process I tested to ensure that all links work as intended. This involved ensuring I can navigate through the pages of the site with no blockers, that the external links to the social media all work and I tested them individually through each of the three pages. 
+
