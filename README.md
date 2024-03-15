@@ -119,6 +119,8 @@ The link to the page can be found here - https://ibrahimabedghane.github.io/Zenf
 
 ## Credits
 
+### Content
+
 The text for the section on Vinyasa yoga on the home page was taken from - https://www.verywellfit.com/introduction-to-vinyasa-flow-yoga-4143120
 
 The text for the How to perform Vinyasa yoga on the home page was taken from - https://classpass.com/movements/vinyasa-flow
@@ -131,5 +133,11 @@ The text for the section on Kundalini yoga on the home page was taken from - htt
 
 The text for How to perform Kundalini yoga on the home page was taken from - https://www.netmeds.com/health-library/post/kundalini-yoga-know-how-to-awaken-the-chakras-of-the-body
 
+### Media 
 
+The image for the first instructor 'James Allen' was taken from - https://bodhitreeyogaresort.com/event/heaven-on-earth-7-night-healing-yoga-retreat/
+
+The image for the second instructor 'Maria Perrie' was taken from - https://appadvice.com/app/ashtanga-yoga/656970748
+
+The image for the third instructor 'Simona Morgan' was taken from - https://www.stylist.co.uk/fitness-health/workouts/ultimate-yoga-pose/675961
 
