@@ -70,4 +70,6 @@ I decided to provide a simple image experience on the website with a clear and l
 ## Testing
 In this section I will explain the validation of my code using the W3C validation mechanism as well as lighthour, wave webaim and manual testing that I undertook to ensure usability of the features of the site. 
 
+No errors found when running the code through both HTML and CSS W3C validator 
 [Link to W3C HTML validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fibrahimabedghane.github.io%2FZenfiyProject1%2F)
+[Link to W3C CSS validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fibrahimabedghane.github.io%2FZenfiyProject1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
