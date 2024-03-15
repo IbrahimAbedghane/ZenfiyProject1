@@ -66,3 +66,8 @@ I decided to provide a simple image experience on the website with a clear and l
 - The footer is simple and intuitive for the user and has three clear links to our social media pages that open in a separate page.
 
 ![Footer](/assets/documentation/footer.png)
+
+## Testing
+In this section I will explain the validation of my code using the W3C validation mechanism as well as lighthour, wave webaim and manual testing that I undertook to ensure usability of the features of the site. 
+
+[Link to W3C HTML validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fibrahimabedghane.github.io%2FZenfiyProject1%2F)
