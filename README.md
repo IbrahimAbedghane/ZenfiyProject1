@@ -39,4 +39,13 @@ I decided to provide a simple image experience on the website with a clear and l
 ![Vinyasa Yoga](/assets/documentation/yoga-section.png)
 ![Hatha Yoga](/assets/documentation/main-section.png)
 ![Kundalini Yoga](/assets/documentation/main-two.png)
+
+### About Us
+- The about us section is the second page of the site accessed through the about us feature on the navigation bar.
+- The layout is simple and eye catching with an introduction to each of our yoga specialists, their speciality and years of experience.
+
+![About US](/assets/documentation/aboutus.png)
+![Instructor](/assets/documentation/aboutus-one.png)
+![Instructor](/assets/documentation/aboutus-two.png)
+![Instructor](/assets/documentation/aboutus-three.png)
  
