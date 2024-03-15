@@ -37,4 +37,5 @@ I decided to provide a simple image experience on the website with a clear and l
 - It offers a short title of the yoga style followed by benefits and how to perform the yoga method.
 
 ![Vinyasa Yoga](/assets/documentation/yoga-section.png)
+![Hatha Yoga](/assets/documentation/main-section.png)
  
