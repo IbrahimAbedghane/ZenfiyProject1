@@ -68,7 +68,7 @@ I decided to provide a simple image experience on the website with a clear and l
 ![Footer](/assets/documentation/footer.png)
 
 ## Testing
-In this section I will explain the validation of my code using the W3C validation mechanism as well as lighthour, wave webaim and manual testing that I undertook to ensure usability of the features of the site. 
+In this section I will explain the validation of my code using the W3C validation mechanism as well as lighthouse, wave webaim and manual testing that I undertook to ensure usability of the features of the site. 
 
 ### Validation of code
 
