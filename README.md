@@ -27,5 +27,7 @@ I decided to provide a simple image experience on the website with a clear and l
 ![Navigation](/assets/documentation/navigation.png)
 
 ### Landing Page
+- The landing page is designed to be intuitive and concise and simple with a clear background image welcoming user to the site.
+- There is also a clear and eye catching caption with the site name.
 ![Landing](/assets/documentation/landing.png)
  
