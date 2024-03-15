@@ -83,13 +83,13 @@ No errors found when running the code through both HTML and CSS W3C validator
 I also put all three pages of my site through the lighthouse mechanism to test for performance, accessibility, best practice and SEO. 
 
 #### Lighthouse testing - Main Page
-[Lighthouse Home page](/assets/documentation/lighthouse-main.png)
+![Lighthouse Home page](/assets/documentation/lighthouse-main.png)
 
 #### Lighthouse testing - About Us Page
-[Lighthouse About Us page](/assets/documentation/lighthouse-about.png)
+![Lighthouse About Us page](/assets/documentation/lighthouse-about.png)
 
 #### Lighthouse testing - Sign Up Page
-[Lighthouse Sign Up](/assets/documentation/lighthouse-signup.png)
+![Lighthouse Sign Up](/assets/documentation/lighthouse-signup.png)
 
 ### Wave Webaim
 
