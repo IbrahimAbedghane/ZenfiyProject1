@@ -95,7 +95,7 @@ I also put all three pages of my site through the lighthouse mechanism to test f
 
 I used Wave Webaim to test my site for accessibility and the results are shown below with no errors or warning.
 
-![Wave Webaim](/assets/documentation/Wave%20Webaim.png)
+![Wave Webaim](/assets/documentation/wave-webaim.png)
 
 ### Manual Testing
 
