@@ -1,33 +1,33 @@
 /* Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900&display=swap');
 
-/* Wildcard to override default styles*/
+/* Wildcard to override default styles */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/*Styling to body and placing of font*/
+/* Styling to body and placing of font */
 body {
     font-family: 'Roboto', sans-serif;
     background-color: aliceblue;
     color: blueviolet;
-    
 }
 
-/*Setting of colors to the header as well as fixing position*/
+/* Setting of colors to the header as well as fixing position */
 header {
-    background-color:rgb(79, 79, 240);
+    background-color: rgb(79, 79, 240);
     color: white;
     padding: 15px 0;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 1000;
 }
 
-/*Centering the lists in the main HTML as well as adding color for contrast*/
+/* Centering the lists in the main HTML as well as adding color for contrast */
 nav ul {
     list-style: none;
     text-align: center;
@@ -44,7 +44,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-/*Adding styling to nav items to underline when hovering over them*/
+/* Adding styling to nav items to underline when hovering over them */
 a:hover {
     text-decoration: underline;
 }
@@ -55,11 +55,12 @@ a:hover {
     background-position: center;
     text-align: center;
     padding: 310px 0;
+    margin-top: 70px; /* Adjust based on header height */
 }
 
 .hero-content {
-    background-color:black;
-    opacity: 70%;
+    background-color: black;
+    opacity: 0.7;
     color: white;
     margin-right: 20%;
     margin-left: 20%;
@@ -77,7 +78,7 @@ a:hover {
     padding: 20px;
 }
 
-.vinyasa-yoga, 
+.vinyasa-yoga,
 .hatha-yoga,
 .kundalini-yoga,
 .about,
@@ -94,9 +95,9 @@ a:hover {
     list-style-type: disc;
 }
 
-/*Different colors for the yoga sections with background color for correct contrast*/
+/* Different colors for the yoga sections with background color for correct contrast */
 .vinyasa-yoga {
-    background-color: rgb(103, 101, 131);
+    background-color: rgb(103, 101, 131) !important;
     color: white;
 }
 
@@ -110,7 +111,6 @@ a:hover {
     color: white;
 }
 
-
 .about h2,
 .instructors h2,
 .signup h2 {
@@ -123,25 +123,24 @@ p {
     font-size: 130%;
 }
 
-/*styling to signup form*/
+/* Styling to signup form */
 .signup-form label {
     display: block;
     margin-bottom: 10px;
 }
 
 footer {
-    background-color:rgb(79, 79, 240);
+    background-color: rgb(79, 79, 240);
     color: white;
     text-align: center;
     padding: 15px 0;
     font-size: 18px;
-    
 }
 
-/*Aligned social media horizontally*/
+/* Aligned social media horizontally */
 #social-media li {
-display: inline;
-margin-right: 15px;
+    display: inline;
+    margin-right: 15px;
 }
 
 #social-media a {
@@ -158,55 +157,56 @@ section li {
     list-style: none;
 }
 
-
-/*Media queries for screens equal or smaller than 768px*/
+/* Media queries for screens equal or smaller than 768px */
 @media screen and (max-width: 768px) {
-    
+    .description {
+        padding: 15px;
+    }
 
-.description {
-    padding: 15px;
+    .hero {
+        margin-top: 80px; /* Adjust based on header height */
+    }
+
+    .hero h1 {
+        font-size: 2em;
+    }
+
+    .about p {
+        font-size: 1.5rem;
+    }
 }
 
-.hero h1 {
-    font-size: 2em;
-}
-
-.about p {
-    font-size: 1.5rem;
-}
-
-
-}
-
-/*Media qureies for screens equal or small than 480px */
+/* Media queries for screens equal or smaller than 480px */
 @media only screen and (max-width: 480px) {
+    .description {
+        padding: 10px;
+    }
 
+    .hero {
+        margin-top: 90px; /* Adjust based on header height */
+    }
 
-.description {
-    padding: 10px;
-}
+    .hero h1 {
+        font-size: 1.5em;
+    }
 
-.hero h1 {
-    font-size: 1.5em;
-}
+    .hero p {
+        font-size: 1em;
+        font-weight: bolder;
+    }
 
-.hero p {
-    font-size: 1em;
-    font-weight: bolder;
-}
+    .about h2 {
+        font-size: 1.7em;
+    }
 
-.about h2 {
-    font-size: 1.7em;
-}
+    .instructors {
+        font-size: 1.7em;
+    }
 
-.instructors {
-    font-size: 1.7em;
-}
-
-/*To ensure image is at 100px on smaller screens */
-.instructors img {
-    width: 100px;
-}
+    /* To ensure image is at 100px on smaller screens */
+    .instructors img {
+        width: 100px;
+    }
 }
 
 .main-container {
