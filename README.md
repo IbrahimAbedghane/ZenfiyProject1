@@ -115,7 +115,7 @@ My site was deployed to Github pages using the following steps:
 2. From the main source area I selected 'Master Branch' from the drop down menu.
 3. Once 'Master Branch' has been selected, given some time the page will successfuly deploy and be accessible through the main repository.
 
-The link to the page can be found here - https://ibrahimabedghane.github.io/ZenfiyProject1/
+The link to the page can be found [here](https://ibrahimabedghane.github.io/ZenfiyProject1/)
 
 ## Credits
 
