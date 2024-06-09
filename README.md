@@ -121,27 +121,27 @@ The link to the page can be found [here](https://ibrahimabedghane.github.io/Zenf
 
 ### Content
 
-The text for the section on Vinyasa yoga on the home page was taken from - https://www.verywellfit.com/introduction-to-vinyasa-flow-yoga-4143120
+The text for the section on Vinyasa yoga on the home page was taken from [VeryWellFit](https://www.verywellfit.com/introduction-to-vinyasa-flow-yoga-4143120)
 
-The text for the How to perform Vinyasa yoga on the home page was taken from - https://classpass.com/movements/vinyasa-flow
+The text for the How to perform Vinyasa yoga on the home page was taken from [ClassPass](https://classpass.com/movements/vinyasa-flow)
 
-The text from the section on Hatha yoga on the home page was taken from - https://www.ekhartyoga.com/articles/philosophy/what-is-hatha-yoga
+The text from the section on Hatha yoga on the home page was taken from [EkhartYoga](https://www.ekhartyoga.com/articles/philosophy/what-is-hatha-yoga)
 
-The text for How to perform Hatha yoga on the home page was taken from - https://www.livestrong.com/article/13762183-hatha-yoga-poses/
+The text for How to perform Hatha yoga on the home page was taken from [LiveStrong](https://www.livestrong.com/article/13762183-hatha-yoga-poses/)
 
-The text for the section on Kundalini yoga on the home page was taken from - https://qiyoga.net/yoga-types/kundalini-yoga/
+The text for the section on Kundalini yoga on the home page was taken from [QiYoga](https://qiyoga.net/yoga-types/kundalini-yoga/)
 
-The text for How to perform Kundalini yoga on the home page was taken from - https://www.netmeds.com/health-library/post/kundalini-yoga-know-how-to-awaken-the-chakras-of-the-body
+The text for How to perform Kundalini yoga on the home page was taken from [NetMeds](https://www.netmeds.com/health-library/post/kundalini-yoga-know-how-to-awaken-the-chakras-of-the-body)
 
 ### Media 
 
-The image for the first instructor 'James Allen' was taken from - https://bodhitreeyogaresort.com/event/heaven-on-earth-7-night-healing-yoga-retreat/
+The image for the first instructor 'James Allen' was taken from [BodhiTreeYoga](https://bodhitreeyogaresort.com/event/heaven-on-earth-7-night-healing-yoga-retreat/)
 
-The image for the second instructor 'Maria Perrie' was taken from - https://appadvice.com/app/ashtanga-yoga/656970748
+The image for the second instructor 'Maria Perrie' was taken from [AppAdvice](https://appadvice.com/app/ashtanga-yoga/656970748)
 
-The image for the third instructor 'Simona Morgan' was taken from - https://www.stylist.co.uk/fitness-health/workouts/ultimate-yoga-pose/675961
+The image for the third instructor 'Simona Morgan' was taken from [Stylist](https://www.stylist.co.uk/fitness-health/workouts/ultimate-yoga-pose/675961)
 
-The main hero images on the home page was taken from - https://www.kelseykerridge.co.uk/news/a-guide-to-mindfulness/
+The main hero images on the home page was taken from [KelseyKerridge](https://www.kelseykerridge.co.uk/news/a-guide-to-mindfulness/)
 
-The social media icons in the footer were taken from - https://fontawesome.com/
+The social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
