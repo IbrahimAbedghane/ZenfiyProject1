@@ -52,7 +52,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Adding gradient background and centering message section */
+/* Adding background image and centering message section */
 .message {
     display: flex;
     flex-direction: column;
@@ -62,7 +62,8 @@ a:hover {
     margin: 0;
     font-weight: bolder;
     font-size: 125%;
-    background: linear-gradient(to bottom right, #6a11cb, #2575fc);
+    background: url("../images/thankyou.page.webp") no-repeat center center fixed;
+    background-size: cover;
     color: white;
     text-align: center;
     padding: 20px;
@@ -78,6 +79,9 @@ a:hover {
     font-size: 1.2em;
     max-width: 600px;
     margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5); /* Adding semi-transparent background for better readability */
+    padding: 10px;
+    border-radius: 5px;
 }
 
 /* Added styling to footer to ensure good contrast with background and clear font size */
