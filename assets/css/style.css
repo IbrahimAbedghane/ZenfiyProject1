@@ -25,6 +25,7 @@ header {
     left: 0;
     width: 100%;
     z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Centering the lists in the main HTML as well as adding color for contrast */
@@ -51,7 +52,83 @@ a:hover {
     text-decoration: underline;
 }
 
-/* file path to the hero image and added padding and centering*/
+/* Adding gradient background and centering message section */
+.message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-weight: bolder;
+    font-size: 125%;
+    background: linear-gradient(to bottom right, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.message h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.message p {
+    font-size: 1.2em;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Added styling to footer to ensure good contrast with background and clear font size */
+footer {
+    background-color: rgb(79, 79, 240);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 18px;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Aligned social media horizontally */
+#social-media li {
+    display: inline;
+    margin-right: 15px;
+}
+
+#social-media a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+#social-media a {
+    padding: 15px;
+}
+
+/* Media queries for screens equal or smaller than 768px */
+@media screen and (max-width: 768px) {
+    .message h1 {
+        font-size: 2em;
+    }
+
+    .message p {
+        font-size: 1em;
+    }
+}
+
+/* Media queries for screens equal or smaller than 480px */
+@media only screen and (max-width: 480px) {
+    .message h1 {
+        font-size: 1.5em;
+    }
+
+    .message p {
+        font-size: 0.9em;
+    }
+}
+
+/* Other existing styles from the original CSS file */
 .hero {
     background-image: url("../images/yoga-hero.jpg");
     background-size: cover;
@@ -98,13 +175,11 @@ a:hover {
     list-style-type: disc;
 }
 
-/* Different colors for the yoga sections with background color for correct contrast */
 .vinyasa-yoga {
     background-color: rgb(103, 101, 131) !important;
     color: white;
 }
 
-/* Specific styling for each yoga section */
 .hatha-yoga {
     background-color: blueviolet;
     color: white;
@@ -127,42 +202,25 @@ p {
     font-size: 130%;
 }
 
-/* Styling to signup form */
 .signup-form label {
     display: block;
     margin-bottom: 10px;
 }
 
-/* Added styling to footer to ensure good contrast with background and clear font size*/
-footer {
-    background-color: rgb(79, 79, 240);
-    color: white;
-    text-align: center;
-    padding: 15px 0;
-    font-size: 18px;
+.main-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-/* Aligned social media horizontally */
-#social-media li {
-    display: inline;
-    margin-right: 15px;
-}
-
-#social-media a {
-    color: aliceblue;
-    text-decoration: none;
-    font-size: 35px;
-}
-
-#social-media a {
-    padding: 15px;
+.signup {
+    flex-grow: 2;
 }
 
 section li {
     list-style: none;
 }
 
-/* Media queries for screens equal or smaller than 768px */
 @media screen and (max-width: 768px) {
     .description {
         padding: 15px;
@@ -181,7 +239,6 @@ section li {
     }
 }
 
-/* Media queries for screens equal or smaller than 480px */
 @media only screen and (max-width: 480px) {
     .description {
         padding: 10px;
@@ -208,29 +265,7 @@ section li {
         font-size: 1.7em;
     }
 
-    /* To ensure image is at 100px on smaller screens */
     .instructors img {
         width: 100px;
     }
-}
-
-.main-container {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.signup {
-    flex-grow: 2;
-}
-
-.message {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-weight: bolder;
-    font-size: 125%;
 }
